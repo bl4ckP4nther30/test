@@ -1,2 +1,1 @@
-print("Hello python")
-print("Dont do")
+print("finished")
